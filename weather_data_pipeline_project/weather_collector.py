@@ -1,3 +1,8 @@
+"""
+LaytLarMal youtube channel မှာ တင်ထားတဲ့ "Python Request Library | Automation | အဆင့်မြင့် Data Collection" ဗီဒီယိုရဲ့ portfolio project
+https://youtu.be/zntaJQplVdc?si=OeVkJzPZOOhoG12K
+"""
+
 import requests
 from datetime import datetime
 import pandas as pd
